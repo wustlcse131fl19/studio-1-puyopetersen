@@ -23,6 +23,8 @@ public class HiOne {
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
+		System.out.println(name);
+		System.out.println("Hi doug what is up?");
 
 	}
 
